@@ -26,11 +26,10 @@ def download_data():
 
 @api.route('/data_post', methods=['PUT'])
 def add_data():
-   if request.method == "PUT":
-    incoming = request.get_json()
-    incoming_data.append(incoming)
-    json.dump(incoming_data, open(filename,"w"), indent=4)
-    return "OK"
+  incoming = request.get_json()
+  incoming_data.append(incoming)
+  json.dump(incoming_data, open(filename,"w"), indent=4)
+  return "OK"
 
 
 if __name__ == '__main__':
