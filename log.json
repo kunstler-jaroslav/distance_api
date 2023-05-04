@@ -1,8 +1,110 @@
 [
-    
     {
         "distance": 2,
         "magnet": 2
+    },
+    {
+        "distance": 6.993127,
+        "magnet": 1
+    },
+    {
+        "distance": 22.74914,
+        "magnet": 1
+    },
+    {
+        "distance": 50.42955,
+        "magnet": 1
+    },
+    {
+        "distance": 16.32302,
+        "magnet": 1
+    },
+    {
+        "distance": 28.59106,
+        "magnet": 1
+    },
+    {
+        "distance": 30.82474,
+        "magnet": 1
+    },
+    {
+        "distance": 54.38144,
+        "magnet": 1
+    },
+    {
+        "distance": 69.39863,
+        "magnet": 1
+    },
+    {
+        "distance": 79.94846,
+        "magnet": 1
+    },
+    {
+        "distance": 93.38488,
+        "magnet": 1
+    },
+    {
+        "distance": 107.9725,
+        "magnet": 1
+    },
+    {
+        "distance": 105.9622,
+        "magnet": 1
+    },
+    {
+        "distance": 89.22681,
+        "magnet": 1
+    },
+    {
+        "distance": 65.30928,
+        "magnet": 1
+    },
+    {
+        "distance": 54.72509,
+        "magnet": 1
+    },
+    {
+        "distance": 43.64261,
+        "magnet": 1
+    },
+    {
+        "distance": 35.24055,
+        "magnet": 1
+    },
+    {
+        "distance": 15.65292,
+        "magnet": 1
+    },
+    {
+        "distance": 104.3471,
+        "magnet": 1
+    },
+    {
+        "distance": 71.06529,
+        "magnet": 1
+    },
+    {
+        "distance": 62.06186,
+        "magnet": 1
+    },
+    {
+        "distance": 46.66667,
+        "magnet": 1
+    },
+    {
+        "distance": 50.44674,
+        "magnet": 1
+    },
+    {
+        "distance": 48.29897,
+        "magnet": 1
+    },
+    {
+        "distance": 29.75945,
+        "magnet": 1
+    },
+    {
+        "distance": 0,
+        "magnet": 1
     }
-    
 ]
